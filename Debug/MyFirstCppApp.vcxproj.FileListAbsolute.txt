@@ -1,0 +1,2 @@
+C:\Users\rkies\source\repos\MyFirstCppApp\Debug\Cpp_code_rkd.exe
+C:\Users\rkies\source\repos\MyFirstCppApp\Debug\Cpp_code_rkd.pdb

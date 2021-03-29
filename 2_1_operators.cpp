@@ -39,7 +39,6 @@ int main()
 	cout << "Check Post-decrement => counter1 = " << counter1 << endl;
 	cout << "Pre-decrement  => --counter2 = " << --counter2 << endl << endl;
 
-
 	//2)Relational Operator => <, >, <=, >=, ==, !=  (,)also
 	cout << "2) Relational Operator => <, >, <=, >=, ==, != , (,)also" << endl;
 	cout << "***********************************" << endl;
@@ -78,9 +77,6 @@ int main()
 	cout << "Operator Priority" << endl;
 	cout << "arithmetic >> relational >> logical >> assignment"<<endl;
 	cout << "***********************************" << endl;
-
-
-
 
 
 	system("pause>0");

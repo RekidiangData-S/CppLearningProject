@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2_1_operators.cpp">
+    <ClCompile Include="10_switch_case_days_in_month.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

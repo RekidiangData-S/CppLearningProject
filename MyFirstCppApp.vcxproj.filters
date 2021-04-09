@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="13_reversing_digits_of_number.cpp">
+    <ClCompile Include="15_for_loop_factorial_number.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

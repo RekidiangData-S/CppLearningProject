@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="15_for_loop_factorial_number.cpp">
+    <ClCompile Include="17_nested_for_loop_multiplication_table.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

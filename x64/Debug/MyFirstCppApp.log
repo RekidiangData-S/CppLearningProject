@@ -1,2 +1,3 @@
-﻿  15_for_loop_factorial_number.cpp
+﻿  17_nested_for_loop_multiplication_table.cpp
+E:\Cpp_code_rkd\17_nested_for_loop_multiplication_table.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
   MyFirstCppApp.vcxproj -> E:\Cpp_code_rkd\x64\Debug\Cpp_code_rkd.exe

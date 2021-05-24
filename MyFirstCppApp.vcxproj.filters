@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="17_nested_for_loop_multiplication_table.cpp">
+    <ClCompile Include="oop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

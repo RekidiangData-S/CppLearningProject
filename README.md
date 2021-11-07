@@ -1,3 +1,3 @@
-# Cpp_code_rkd
+# C++ Learling Project
 
-https://www.youtube.com/watch?v=GQp1zzTwrIg&t=10860s
+[Start from here](https://youtu.be/GQp1zzTwrIg?list=PL43pGnjiVwgTg9IGE0ijSMDxVG66Lhye2&t=20670)
